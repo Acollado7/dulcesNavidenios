@@ -6,7 +6,7 @@ public class Esteponera {
     public static void main(String[] args) {
 
         //Declaración de variables
-        
+
         final double COSTE_MANO_OBRA_M1_T1 = 0.15;
         final double COSTE_MANO_OBRA_M2_T2_P1 = 0.22;
 
